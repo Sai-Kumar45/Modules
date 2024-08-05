@@ -1,0 +1,11 @@
+{
+  "name": "modules",
+  "version": "1.0.0",
+  "description": "node modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "sai kumar",
+  "license": "ISC"
+}
